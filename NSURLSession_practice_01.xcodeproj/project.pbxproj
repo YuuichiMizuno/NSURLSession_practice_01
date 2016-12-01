@@ -54,12 +54,12 @@
 		4BDFA9221DEFC9300022AAC2 /* NSURLSession_practice_01 */ = {
 			isa = PBXGroup;
 			children = (
-				4BDFA9231DEFC9300022AAC2 /* AppDelegate.swift */,
-				4BDFA9251DEFC9300022AAC2 /* ViewController.swift */,
+				4BDFA92F1DEFC9300022AAC2 /* Info.plist */,
+				4BDFA92C1DEFC9300022AAC2 /* LaunchScreen.storyboard */,
 				4BDFA9271DEFC9300022AAC2 /* Main.storyboard */,
 				4BDFA92A1DEFC9300022AAC2 /* Assets.xcassets */,
-				4BDFA92C1DEFC9300022AAC2 /* LaunchScreen.storyboard */,
-				4BDFA92F1DEFC9300022AAC2 /* Info.plist */,
+				4BDFA9231DEFC9300022AAC2 /* AppDelegate.swift */,
+				4BDFA9251DEFC9300022AAC2 /* ViewController.swift */,
 			);
 			path = NSURLSession_practice_01;
 			sourceTree = "<group>";
@@ -263,6 +263,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 4PF2E3SG23;
 				INFOPLIST_FILE = NSURLSession_practice_01/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "atoms.NSURLSession-practice-01";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +277,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 4PF2E3SG23;
 				INFOPLIST_FILE = NSURLSession_practice_01/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "atoms.NSURLSession-practice-01";
 				PRODUCT_NAME = "$(TARGET_NAME)";
